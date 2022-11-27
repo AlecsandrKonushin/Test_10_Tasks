@@ -1,0 +1,7 @@
+P:\Projects\Test_10_Tasks\10_Tasks\10_Tasks\bin\Debug\10_Tasks.exe.config
+P:\Projects\Test_10_Tasks\10_Tasks\10_Tasks\bin\Debug\10_Tasks.exe
+P:\Projects\Test_10_Tasks\10_Tasks\10_Tasks\bin\Debug\10_Tasks.pdb
+P:\Projects\Test_10_Tasks\10_Tasks\10_Tasks\obj\Debug\10_Tasks.csproj.AssemblyReference.cache
+P:\Projects\Test_10_Tasks\10_Tasks\10_Tasks\obj\Debug\10_Tasks.csproj.CoreCompileInputs.cache
+P:\Projects\Test_10_Tasks\10_Tasks\10_Tasks\obj\Debug\10_Tasks.exe
+P:\Projects\Test_10_Tasks\10_Tasks\10_Tasks\obj\Debug\10_Tasks.pdb
