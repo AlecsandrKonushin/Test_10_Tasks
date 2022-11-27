@@ -10,7 +10,7 @@ namespace Tasks
 
         private int finalValue = 0;
 
-        public Task_1() : base("02")
+        public Task_1() : base("1")
         {
 
         }

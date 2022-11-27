@@ -18,7 +18,7 @@ namespace Tasks
         /// 
         /// </summary>
 
-        public Task_2() : base("06")
+        public Task_2() : base("2")
         {
             bulbs = new List<Bulb>();
             actions = new List<BuldAction>();
