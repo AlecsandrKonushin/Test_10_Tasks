@@ -43,7 +43,6 @@ namespace Tasks
 
         private void CountAllValues()
         {
-
             int[] sortArray;
 
             foreach (var currentValues in allValues) // Sort arrays

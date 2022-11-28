@@ -10,7 +10,7 @@ namespace Tasks
     {
         static void Main(string[] args)
         {
-            new Task_3().CountData();
+            new Task_4().CountData();
 
             Console.ReadKey();
         }
